@@ -1,0 +1,26 @@
+# Core Dependencies
+numpy>=1.21.0
+matplotlib>=3.4.0
+opencv-python>=4.5.0
+opencv-contrib-python>=4.5.0
+
+# Deep Learning
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Image Processing Utilities
+imutils>=0.5.4
+Pillow>=8.3.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+notebook>=6.4.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+
+# GUI
+tk>=0.1.0
+
+# Optional but Recommended
+scikit-image>=0.18.0
+scipy>=1.7.0
